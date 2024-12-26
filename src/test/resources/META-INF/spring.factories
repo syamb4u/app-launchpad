@@ -1,0 +1,5 @@
+org.springframework.test.context.ContextCustomizerFactory = \
+    com.codenest.applaunchpad.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.codenest.applaunchpad.\
+    config.TestContainersSpringContextCustomizerFactory,com.codenest.\
+    applaunchpad.config.KafkaTestContainersSpringContextCustomizerFactory
